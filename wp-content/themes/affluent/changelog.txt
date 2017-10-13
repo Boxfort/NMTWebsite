@@ -1,0 +1,13 @@
+Version 1.0.5
+Fixed Homepage Portfolio Item Bug
+
+Version 1.0.4
+Fixed Single Post bug.
+
+Version 1.0.2
+Added Epsilon Framework
+Added Compatibility with Woocommerce 3.x
+Added Compatibility with Polylang
+
+Version 1.0.0
+Theme release!
