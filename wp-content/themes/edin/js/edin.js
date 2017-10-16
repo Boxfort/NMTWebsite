@@ -1,6 +1,9 @@
 /* global screen_reader_text */
 ( function( $ ) {
 
+	function resizeIframe(obj) {
+    obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+  	}
 	/**
 	 * A function to add classes to body depending on window width.
 	 */
