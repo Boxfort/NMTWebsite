@@ -552,12 +552,12 @@ a.button,
 a.button-minimal {
 	display: inline-block;
 	padding: 10px 24px;
-	border: 2px solid #1279be;
+	border: 2px solid #c44c4c;
 	font-weight: bold;
 	text-transform: uppercase;
 }
 a.button {
-	background: #1279be;
+	background: #c44c4c;
 	color: #fff;
 }
 a.button:hover,
@@ -568,13 +568,13 @@ a.button:active {
 	color: #fff;
 }
 a.button-minimal {
-	color: #1279be;
+	color: #c44c4c;
 }
 a.button-minimal:hover,
 a.button-minimal:focus,
 a.button-minimal:active {
-	background: #1279be;
-	border-color: #1279be;
+	background: #c44c4c;
+	border-color: #c44c4c;
 	color: #fff;
 }
 
@@ -734,7 +734,7 @@ a.button-minimal:active {
 	color: transparent;
 }
 .menu-toggle:focus {
-	color: #1279be;
+	color: #c44c4c;
 }
 .menu-toggle:focus:before {
 	-webkit-box-shadow: inset 0 0 4px rgba(0, 0, 0, 0.75);
@@ -743,12 +743,12 @@ a.button-minimal:active {
 }
 .menu-toggle.open:before {
 	content: '\e600';
-	background: #1279be;
+	background: #c44c4c;
 	color: #fff;
 }
 .navigation-wrapper {
 	display: none;
-	background: #1279be;
+	background: #c44c4c;
 	font-weight: bold;
 }
 
@@ -903,7 +903,7 @@ a.button-minimal:active {
 }
 .primary-navigation .dropdown-toggle:hover {
 	background: #fff;
-	color: #1279be;
+	color: #c44c4c;
 }
 .primary-navigation .dropdown-toggle:before {
 	display: block;
@@ -1010,8 +1010,8 @@ a.button-minimal:active {
 .footer-navigation a:hover,
 .footer-navigation a:focus,
 .footer-navigation a:active {
-	border-bottom-color: #1279be;
-	color: #1279be;
+	border-bottom-color: #c44c4c;
+	color: #c44c4c;
 }
 
 /*--------------------------------------------------------------
